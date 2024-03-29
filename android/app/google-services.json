@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154234509456",
+    "project_id": "admin-app-8063e",
+    "storage_bucket": "admin-app-8063e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154234509456:android:bd28aa84158f6be12d2015",
+        "android_client_info": {
+          "package_name": "com.example.adminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrmrB9CnuUv0u-_lMpZmwjdMnSvuhUNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154234509456:android:96d9c6e3170ed1832d2015",
+        "android_client_info": {
+          "package_name": "com.example.thecakecorner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrmrB9CnuUv0u-_lMpZmwjdMnSvuhUNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
